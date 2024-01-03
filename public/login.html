@@ -15,6 +15,7 @@
           <div class="col-md-6">
             <h2>Login</h2>
             <input type="text" id="usernameInput" class="form-control mt-3" placeholder="Enter your username...">
+            <input type="password" id="passwordInput" class="form-control mt-3" placeholder="Enter your Password...">
             <button id="loginButton" class="btn btn-primary mt-2">Login</button>
           </div>
         </div>
@@ -31,12 +32,37 @@
     $(document).ready(() => {
       $('#loginButton').click(() => {
         const username = $('#usernameInput').val();
-        if (username && username.trim() !== "") {
-          localStorage.setItem('username', username);
-          // Redirect to the main chat page after successful login
-          window.location.href = "/index.html";
-        } else {
+        const password = $('#passwordInput').val();
+        console.log(username,password);
+        if (username.trim() === "") {
           alert("Username cannot be empty. Please enter a valid username.");
+          return;
+        }else if (password.trim() === "") {
+          alert("Password cannot be empty. Please enter a valid password.");
+          return;
+        }else {
+          const serverURL = window.location.origin; // Use the current origin (protocol, host, and port)
+          // Send login request to server
+          fetch(`${serverURL}/login`, {
+            method: 'POST',
+            headers: {
+              'Content-Type': 'application/json',
+            },
+            body: JSON.stringify({ username, password }),
+          })
+          .then(response => {
+            if (response.ok) {
+              // Redirect to the main chat page after successful login
+              window.location.href = "/chat.html";
+            } else {
+              // Handle login failure
+              alert("Invalid username or password. Please try again.");
+            }
+          })
+          .catch(error => {
+            console.error('Error:', error.message);
+            alert("An error occurred. Please try again later.");
+          });
         }
       });
     });

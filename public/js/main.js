@@ -2,17 +2,36 @@ const socket = io();
 // Assuming that users is defined in a higher scope, maybe in your main application logic
 const users = {};
 console.log(socket.id);
-const username = localStorage.getItem('username');
+const username = "localStorage.getItem('username')";//benerin ini ntar
 
 if (!username) {
     // Redirect to the login page if the username is empty'
     console.log("P", !socket.id);
-    window.location.href = "/login.html";
+    // window.location.href = "/login.html"; benerin ini ntar
 } else {
     socket.emit('setUsername', username);
 }
 
 $(document).ready(() => {
+    //  // Fetch session username
+    //  $.ajax({
+    //     type: "GET",
+    //     url: "/getusername", // Assuming this endpoint returns the session username
+    //     success: function (data) {
+    //         // Display the session username wherever you want in your HTML
+    //         displaySessionUsername(data.username);
+    //     },
+    //     error: function (error) {
+    //         console.error("Error fetching session username:", error);
+    //     }
+    // });
+
+    // function displaySessionUsername(username) {
+    //     // Update the DOM with the session username
+    //     // For example, assuming you have a div with id "session-username-display"
+    //     $('#session-username-display').text("Welcome, " + username);
+    // }
+    
     $('#sendButton').click(() => {
         const message = $('#messageInput').val();
         socket.emit('sendMessage', message);
