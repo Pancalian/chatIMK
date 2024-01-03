@@ -1,0 +1,696 @@
+[{
+  "_id": {
+    "$oid": "657d53e1a208cc7ba3819026"
+  },
+  "user": "someUserId",
+  "username": "JohnDoe",
+  "content": "Hello, World!",
+  "time": {
+    "$date": "2023-12-16T07:38:09.343Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657d53e2a208cc7ba3819029"
+  },
+  "user": "someUserId",
+  "username": "JohnDoe",
+  "content": "Hello, World!",
+  "time": {
+    "$date": "2023-12-16T07:38:10.315Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657d5541a208cc7ba381902c"
+  },
+  "user": "someUserId",
+  "username": "JohnDoe",
+  "content": "Hello, World!",
+  "time": {
+    "$date": "2023-12-16T07:44:01.425Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657d560ba208cc7ba381902f"
+  },
+  "user": "someUserId",
+  "username": "JohnDoe",
+  "content": "Hello, World!",
+  "time": {
+    "$date": "2023-12-16T07:47:23.338Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657d56e7a208cc7ba3819032"
+  },
+  "user": "someUserId",
+  "username": "JohnDoe",
+  "content": "Hello, World!",
+  "time": {
+    "$date": "2023-12-16T07:51:03.644Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657d5726a208cc7ba3819035"
+  },
+  "user": "someUserId",
+  "username": "JohnDoe",
+  "content": "Hello, World!",
+  "time": {
+    "$date": "2023-12-16T07:52:06.952Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657d57cca208cc7ba3819038"
+  },
+  "user": "someUserId",
+  "username": "JohnDoe",
+  "content": "Hello, World!",
+  "time": {
+    "$date": "2023-12-16T07:54:52.311Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657d57dfa208cc7ba381903b"
+  },
+  "user": "someUserId",
+  "username": "JohnDoe",
+  "content": "Hello, World!",
+  "time": {
+    "$date": "2023-12-16T07:55:11.141Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657d592b324716d5bad9ebf3"
+  },
+  "user": "someUserId",
+  "username": "JohnDoe",
+  "content": "Hello, World!",
+  "time": {
+    "$date": "2023-12-16T08:00:43.351Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657d592b324716d5bad9ebf6"
+  },
+  "user": "someUserId",
+  "username": "JohnDoe",
+  "content": "Hello, World!",
+  "time": {
+    "$date": "2023-12-16T08:00:43.359Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657d5933225bc41f1c8ca174"
+  },
+  "user": "someUserId",
+  "username": "JohnDoe",
+  "content": "Hello, World!",
+  "time": {
+    "$date": "2023-12-16T08:00:51.348Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657d5934225bc41f1c8ca177"
+  },
+  "user": "someUserId",
+  "username": "JohnDoe",
+  "content": "Hello, World!",
+  "time": {
+    "$date": "2023-12-16T08:00:52.326Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657d5936804135123319e7c2"
+  },
+  "user": "someUserId",
+  "username": "JohnDoe",
+  "content": "Hello, World!",
+  "time": {
+    "$date": "2023-12-16T08:00:54.346Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657d5936804135123319e7c5"
+  },
+  "user": "someUserId",
+  "username": "JohnDoe",
+  "content": "Hello, World!",
+  "time": {
+    "$date": "2023-12-16T08:00:54.361Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657d593a804135123319e7c8"
+  },
+  "user": "someUserId",
+  "username": "JohnDoe",
+  "content": "Hello, World!",
+  "time": {
+    "$date": "2023-12-16T08:00:58.121Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657d595060f82737face7120"
+  },
+  "user": "someUserId",
+  "username": "JohnDoe",
+  "content": "Hello, World!",
+  "time": {
+    "$date": "2023-12-16T08:01:20.670Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657d595060f82737face711d"
+  },
+  "user": "someUserId",
+  "username": "JohnDoe",
+  "content": "Hello, World!",
+  "time": {
+    "$date": "2023-12-16T08:01:20.662Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657d5957a34040694e348298"
+  },
+  "user": "someUserId",
+  "username": "JohnDoe",
+  "content": "Hello, World!",
+  "time": {
+    "$date": "2023-12-16T08:01:27.347Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657d5957a34040694e34829b"
+  },
+  "user": "someUserId",
+  "username": "JohnDoe",
+  "content": "Hello, World!",
+  "time": {
+    "$date": "2023-12-16T08:01:27.362Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657d595c4edc1feb35182800"
+  },
+  "user": "someUserId",
+  "username": "JohnDoe",
+  "content": "Hello, World!",
+  "time": {
+    "$date": "2023-12-16T08:01:32.330Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657d595e4edc1feb35182803"
+  },
+  "user": "someUserId",
+  "username": "JohnDoe",
+  "content": "Hello, World!",
+  "time": {
+    "$date": "2023-12-16T08:01:34.162Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657d598a6f7c771b7ba43cef"
+  },
+  "user": "someUserId",
+  "username": "JohnDoe",
+  "content": "Hello, World!",
+  "time": {
+    "$date": "2023-12-16T08:02:18.343Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657d598b6f7c771b7ba43cf2"
+  },
+  "user": "someUserId",
+  "username": "JohnDoe",
+  "content": "Hello, World!",
+  "time": {
+    "$date": "2023-12-16T08:02:19.323Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657d598d6f7c771b7ba43cf5"
+  },
+  "user": "someUserId",
+  "username": "JohnDoe",
+  "content": "Hello, World!",
+  "time": {
+    "$date": "2023-12-16T08:02:21.749Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657d599d6f7c771b7ba43cf8"
+  },
+  "user": "someUserId",
+  "username": "JohnDoe",
+  "content": "Hello, World!",
+  "time": {
+    "$date": "2023-12-16T08:02:37.693Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657d59cc6f7c771b7ba43cfb"
+  },
+  "user": "someUserId",
+  "username": "JohnDoe",
+  "content": "Hello, World!",
+  "time": {
+    "$date": "2023-12-16T08:03:24.141Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657d6775cf6400ea1db5a8f0"
+  },
+  "user": "u1L3b8FkTsnYfRZRAAAD",
+  "username": "Yanuar",
+  "content": "tets",
+  "time": {
+    "$date": "2023-12-16T09:01:41.602Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657d67b92f2c3cc380e81bc3"
+  },
+  "user": "prj7fLlbXJ3YRa7vAAAF",
+  "username": "Yanuar",
+  "content": "Hello",
+  "time": {
+    "$date": "2023-12-16T09:02:49.901Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657d67efb9b1a1893068c024"
+  },
+  "user": "wUCxd2PUXt9pF8WXAAAF",
+  "username": "Yanuar",
+  "content": "Hello",
+  "time": {
+    "$date": "2023-12-16T09:03:43.292Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657d6a47c0d85de7988964d2"
+  },
+  "user": "IxObJ_2Bod1nRB59AAAD",
+  "username": "Yanuar",
+  "content": "Hello",
+  "time": {
+    "$date": "2023-12-16T09:13:43.647Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657d6a611426acf198470e69"
+  },
+  "user": "AQwvXdUO4MtYk0kCAAAF",
+  "username": "Yanuar",
+  "content": "Haha",
+  "time": {
+    "$date": "2023-12-16T09:14:09.325Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657d6ad10d5e807ebd119b68"
+  },
+  "user": "OSY8-zaCD35oZVCdAAAD",
+  "username": "Yanuar",
+  "content": "Hehe",
+  "time": {
+    "$date": "2023-12-16T09:16:01.753Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657d6ae70d5e807ebd119b6b"
+  },
+  "user": "PHJd98OuzGvEVUxfAAAF",
+  "username": "Bah",
+  "content": "Hehe",
+  "time": {
+    "$date": "2023-12-16T09:16:23.584Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657d6aed0d5e807ebd119b6d"
+  },
+  "user": "OSY8-zaCD35oZVCdAAAD",
+  "username": "Yanuar",
+  "content": "Haha",
+  "time": {
+    "$date": "2023-12-16T09:16:29.176Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657d6af30d5e807ebd119b6f"
+  },
+  "user": "PHJd98OuzGvEVUxfAAAF",
+  "username": "Bah",
+  "content": "Loh",
+  "time": {
+    "$date": "2023-12-16T09:16:35.369Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657d6af70d5e807ebd119b71"
+  },
+  "user": "OSY8-zaCD35oZVCdAAAD",
+  "username": "Yanuar",
+  "content": "Yeh",
+  "time": {
+    "$date": "2023-12-16T09:16:39.398Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657d6b000d5e807ebd119b74"
+  },
+  "user": "vhTdNWalQxlysq2-AAAH",
+  "username": "New",
+  "content": "Aelah",
+  "time": {
+    "$date": "2023-12-16T09:16:48.157Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657d6b180d5e807ebd119b76"
+  },
+  "user": "OSY8-zaCD35oZVCdAAAD",
+  "username": "Yanuar",
+  "content": "hehe",
+  "time": {
+    "$date": "2023-12-16T09:17:12.933Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657d6b1e0d5e807ebd119b78"
+  },
+  "user": "vhTdNWalQxlysq2-AAAH",
+  "username": "New",
+  "content": "hoho",
+  "time": {
+    "$date": "2023-12-16T09:17:18.638Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657d6c0d0d5e807ebd119b7a"
+  },
+  "user": "OSY8-zaCD35oZVCdAAAD",
+  "username": "Yanuar",
+  "content": "!time",
+  "time": {
+    "$date": "2023-12-16T09:21:17.337Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657d6cf7a09b56807b0c084a"
+  },
+  "user": "vSowgwOkfU6nhWIkAAAF",
+  "username": "Yanuar",
+  "content": "wait",
+  "time": {
+    "$date": "2023-12-16T09:25:11.722Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657daca2fb2090e6cf129edf"
+  },
+  "user": "sUA8aNJ6p-fNnR10AAAD",
+  "username": "Hello",
+  "content": "Iyaa hello",
+  "time": {
+    "$date": "2023-12-16T13:56:50.598Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657daca4fb2090e6cf129ee1"
+  },
+  "user": "JQX0e3Sy1eYQDQexAAAH",
+  "username": "Yes",
+  "content": "P hello",
+  "time": {
+    "$date": "2023-12-16T13:56:52.990Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657dad1f8e638901bffb09e2"
+  },
+  "user": "rJl_NZb-qC3pO3gBAAAF",
+  "username": "Yanuar",
+  "content": "p halo",
+  "time": {
+    "$date": "2023-12-16T13:58:55.941Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657dad228e638901bffb09e4"
+  },
+  "user": "rJl_NZb-qC3pO3gBAAAF",
+  "username": "Yanuar",
+  "content": "iyaa",
+  "time": {
+    "$date": "2023-12-16T13:58:58.302Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657dad2c8e638901bffb09e6"
+  },
+  "user": "rJl_NZb-qC3pO3gBAAAF",
+  "username": "Yanuar",
+  "content": "asdasd it worek",
+  "time": {
+    "$date": "2023-12-16T13:59:08.638Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657dad398e638901bffb09e9"
+  },
+  "user": "LPXLsBXgK5yOlQmAAAAH",
+  "username": "Kedua",
+  "content": "Iyaa wokr",
+  "time": {
+    "$date": "2023-12-16T13:59:21.616Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657dad3b8e638901bffb09eb"
+  },
+  "user": "LPXLsBXgK5yOlQmAAAAH",
+  "username": "Kedua",
+  "content": "work",
+  "time": {
+    "$date": "2023-12-16T13:59:23.006Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657dad408e638901bffb09ed"
+  },
+  "user": "rJl_NZb-qC3pO3gBAAAF",
+  "username": "Yanuar",
+  "content": "Masa sih",
+  "time": {
+    "$date": "2023-12-16T13:59:28.993Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657dad468e638901bffb09ef"
+  },
+  "user": "rJl_NZb-qC3pO3gBAAAF",
+  "username": "Yanuar",
+  "content": "iyaaa betul",
+  "time": {
+    "$date": "2023-12-16T13:59:34.948Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657ebac7b1a007bf2b21662b"
+  },
+  "user": "0bzKlUfin3BrcP-oAAAF",
+  "username": "P halo",
+  "content": "Bisa anjir",
+  "time": {
+    "$date": "2023-12-17T09:09:27.720Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657ebad9b1a007bf2b216630"
+  },
+  "user": "_XnLYRD0kD2XqFKaAAAL",
+  "username": "P yes",
+  "content": "Oiya halo",
+  "time": {
+    "$date": "2023-12-17T09:09:45.090Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657ebb22914dc9def200cf28"
+  },
+  "user": "KAtJbyTgKaKqLe1iAAAH",
+  "username": "P yes",
+  "content": "Lah ini bisa",
+  "time": {
+    "$date": "2023-12-17T09:10:58.631Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657ebb2c914dc9def200cf2b"
+  },
+  "user": "432oyIFXw97aXzyCAAAJ",
+  "username": "P yes",
+  "content": "Ini",
+  "time": {
+    "$date": "2023-12-17T09:11:08.412Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657ebb32914dc9def200cf2d"
+  },
+  "user": "432oyIFXw97aXzyCAAAJ",
+  "username": "P yes",
+  "content": "Kok bisa",
+  "time": {
+    "$date": "2023-12-17T09:11:14.359Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657ebb68914dc9def200cf35"
+  },
+  "user": "U0IMZV5MBISCTJsuAAAW",
+  "username": "Utama",
+  "content": "Wtf bang",
+  "time": {
+    "$date": "2023-12-17T09:12:08.045Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657ebb6c914dc9def200cf37"
+  },
+  "user": "8Qnyftb-k3HpHTRXAAAU",
+  "username": "Incognito",
+  "content": "Iyaa bang",
+  "time": {
+    "$date": "2023-12-17T09:12:12.798Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657ebfc5ce29abbaf3ebe770"
+  },
+  "user": "x1OJ6IbAFK02t5oEAAAI",
+  "username": "Iyaa halo",
+  "content": "Iyaa kenapa halo",
+  "time": {
+    "$date": "2023-12-17T09:30:45.515Z"
+  },
+  "__v": 0
+}]
