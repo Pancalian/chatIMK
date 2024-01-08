@@ -130,8 +130,7 @@ app.get('/register', async (req, res) => {
 
 app.get('/get',function(req, res){
   // res.send(req.session.user);
-  const usernameget = req.session.user.username;
-    res.send({ usernameget });
+  res.json({ username: req.session.user.username });
   });
 
 // Sample route to demonstrate logging out and destroying the session
@@ -274,6 +273,11 @@ io.on('connection', (socket) => {
 });
 
 const PORT = process.env.PORT || 3000;
-server.listen(PORT, () => {
+server.listen(PORT,() => {
   console.log(`Server is running on port ${PORT}`);
 });
+
+// server.listen(PORT, '192.168.23.26',() => {
+//   console.log(`Server is running on port ${PORT}`);
+// }); 
+// untuk start nodemon biar bisa diakses org

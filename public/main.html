@@ -11,17 +11,47 @@
 
 <body>
 
-main
+  <div class="container">
+    <!-- Dropdown for "Chat Kelas" -->
+    <div class="dropdown">
+      <button class="btn btn-secondary dropdown-toggle" type="button" id="chatKelasDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+        Chat Kelas
+      </button>
+      <div class="dropdown-menu" aria-labelledby="chatKelasDropdown">
+        <a class="dropdown-item" href="#">Interaksi Manusia Komputer</a>
+        <a class="dropdown-item" href="#">Game Enterprise</a>
+        <a class="dropdown-item" href="#">Algoritma Pemrograman</a>
+      </div>
+    </div>
 
-
-  <div id="footerContainer">
-      <!-- Include footer.html -->
-      <object type="text/html" data="footer.html" width="100%" height="200px"></object>
+    <!-- Dropdown for "Recent" -->
+    <div class="dropdown">
+      <button class="btn btn-secondary dropdown-toggle" type="button" id="recentDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+        Recent
+      </button>
+      <div class="dropdown-menu" aria-labelledby="recentDropdown">
+        <!-- Add your recent items dynamically here -->
+        <!-- Example: -->
+        <a class="dropdown-item" href="#">Laksita</a>
+      </div>
+    </div>
   </div>
+
+
+
+<!-- Bottom Navbar -->
+<nav class="navbar navbar-light bg-light fixed-bottom">
+  <a class="navbar-brand" href="#">Home</a>
+  <a class="navbar-brand" href="#">?</a>
+  <a class="navbar-brand" href="/chat">Chat</a>
+  <a class="navbar-brand" href="#">Profile</a>
+</nav>
 
   <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js"></script>
   <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+  <!-- Include Popper.js -->
+  <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js"></script>
   <script src="https://cdn.socket.io/4.0.1/socket.io.min.js"></script>
 </body>
 </html>
